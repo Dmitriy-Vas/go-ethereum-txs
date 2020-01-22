@@ -20,4 +20,4 @@
 *.ipr
 .idea/
 .ideaDataSources/
-.dataSources/
+dataSources/
